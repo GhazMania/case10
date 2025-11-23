@@ -1,0 +1,1 @@
+They say if suffering has an end, then i will be the deliverer.
