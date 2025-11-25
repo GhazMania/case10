@@ -11,8 +11,8 @@ int main() {
     
     bmi = weightKg / (heightMeters * heightMeters);
     
-	printf("Answer: %.2lf\n", bmi);
-    printf("Don't Let time burn");
+	printf("Answer: %lf", bmi);
+    printf("Answer: %lf", weightKg);
     
     return 0;
 }
